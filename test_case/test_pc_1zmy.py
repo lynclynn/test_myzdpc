@@ -10,7 +10,7 @@ import unittest
 from selenium import webdriver
 from HTMLTestRunner import HTMLTestRunner
 
-class myzdpcTestCase(unittest.TestCase):
+class test_pc_1zmy(unittest.TestCase):
     '''
     test:myzd
     '''
